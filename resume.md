@@ -17,7 +17,7 @@ Simulations, PSPICE, LABVIEW, PROMODEL, LINGO, STATFIT, PBUSE, GCSS Army,
 * __Computer Software:__ Microsoft Office Suite (Word, Excel, PowerPoint), Paintshop, Windows
 XP/Vista, and Macintosh, Linux
 ## Education ##
- __Florida Institute of Technology, Melbourne, FL__
+__Florida Institute of Technology, Melbourne, FL__
 
  __M.S in Computer Information Systems__
 
@@ -27,11 +27,13 @@ Programming & Data Structures, Object-Oriented Design, Information Security, Ass
 Language Programming, Computer Organization and Architecture, Network Security, Operating
 systems, web programming, system administration
 
+
 __Florida Institute of Technology, Melbourne, FL__
 
  __M.S in Operations Research__ 
 
  (GPA: 4.0/4.0) Dean list July 2018
+ 
 
 __University of Texas at Arlington, Arlington, TX__
 
