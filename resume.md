@@ -18,7 +18,9 @@ Simulations, PSPICE, LABVIEW, PROMODEL, LINGO, STATFIT, PBUSE, GCSS Army,
 XP/Vista, and Macintosh, Linux
 ## Education ##
  __Florida Institute of Technology, Melbourne, FL__
+
  __M.S in Computer Information Systems__
+
   (GPA: 3.8/4.0) expected May 2019
 * __Relevant Courses -__ Systems Analysis & Design, Database Management Systems, Java
 Programming & Data Structures, Object-Oriented Design, Information Security, Assembly
@@ -26,11 +28,15 @@ Language Programming, Computer Organization and Architecture, Network Security, 
 systems, web programming, system administration
 
 __Florida Institute of Technology, Melbourne, FL__
+
  __M.S in Operations Research__ 
+
  (GPA: 4.0/4.0) Dean list July 2018
 
 __University of Texas at Arlington, Arlington, TX__
+
 __B.S. In Electrical Engineering__
+
  (GPA: 3.55/4.0) Cum Laude May 2015
 
 ## Academic Research Experience ##
@@ -99,4 +105,5 @@ __Math Tutor at North Lake College, Irving, Texas__         Fall 2011- Spring 20
 ## Additional Skills
 __Equipment:__ Oscilloscopes, MultiMeter’s, spectrum analyzer, DC power supplies, function
 generators, signal conditioners, data acquisition systems, military vehicle system
+
  __Languages:__ Nepali (fluent), Hindi (proficient), Spanish (low-level
